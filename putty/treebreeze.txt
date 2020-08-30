@@ -1,0 +1,36 @@
+Treebreeze
+
+Courier New 14-Point 
+
+Default Foreground        135 175 135
+Default Bold Foreground   198 143 143
+
+Default Background        58 58 58
+Default Bold Background   85 85 85
+
+Cursor Text               0 0 0
+Cursor Color              105 101 20
+
+Ansi Black                42 41 40
+Ansi Black Bold           103 93 93
+
+Ansi Red                  215 85 74
+Ansi Red Bold             225 105 95
+
+Ansi Green                163 218 162
+Ansi Green Bold           176 255 173
+
+Ansi Yellow               255 180 150
+Ansi Yellow Bold          242 208 72
+
+Ansi Blue                 110 150 110
+Ansi Blue Bold            96 137 150
+
+Ansi Magenta              255 222 173
+Ansi Magenta Bold         255 85 255
+
+Ansi Cyan                 206 142 121
+Ansi Cyan Bold            255 215 0
+
+Ansi White                245 222 179
+Ansi White Bold           255 255 255
