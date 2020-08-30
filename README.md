@@ -1,13 +1,4 @@
 
-# TreeBreeze
-
-My personal color scheme. For use with:
-
- - sublime
- - iterm
- - putty
- - terminal
-
 ```txt                                                                                
                                        &&                                       
                                     &&&   &   &&                                
@@ -28,8 +19,17 @@ My personal color scheme. For use with:
              &#                          &&&&&                                  
                                          &&&&&                                  
                                          &&&&&                                  
-                                         &&&&&                                  
+                          T R E E        &&&&&      B R E E Z E                 
                                          &&&&&                                  
                                         &&&&&&                                  
                                    ,%@&&&&&&&&&&&,                              
 ```
+
+## TreeBreeze
+
+Personal color scheme. For use with:
+
+ - sublime
+ - iterm
+ - putty
+ - terminal
